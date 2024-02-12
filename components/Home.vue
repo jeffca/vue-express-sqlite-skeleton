@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <h1>Jeff's NBA data</h1>
+    <h1 class="center">Jeff's website</h1>
 </template>
